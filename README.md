@@ -1,0 +1,2 @@
+# Geradordecontratosdelocacao
+Generator´s contracts 
